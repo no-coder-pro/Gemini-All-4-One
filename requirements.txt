@@ -1,0 +1,7 @@
+Flask
+google-generativeai
+Pillow
+numpy
+requests
+APScheduler
+gunicorn
